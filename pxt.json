@@ -1,0 +1,51 @@
+{
+    "name": "Space Shooter Multiplayer",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "multiplayer": "*",
+        "sprite-scaling": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v2.0.61",
+        "tag": "v2.0.61",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/46e1f878ac2b238b3b86f17ea661d738b1395aaa",
+        "target": "2.0.63",
+        "pxt": "11.3.65",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#f5edba",
+        "#9d303b",
+        "#d26471",
+        "#e4943a",
+        "#c0c741",
+        "#34859d",
+        "#647d34",
+        "#17434b",
+        "#7ec4c1",
+        "#584563",
+        "#8c8fae",
+        "#3e2137",
+        "#d79b7d",
+        "#9a6348",
+        "#1f0e1c"
+    ]
+}
